@@ -37,7 +37,7 @@ render () {
         <p>Password</p>
         <input required type="password" name="password" placeholder="Enter password" />
         <input type="submit" name="" label="Submit" />
-        <a href="#">Lost your password?</a>
+        <a href="#">forgoten password?</a>
         <br/>
         <a href="signup.html">Don't have an account yet?</a>
         <br/>
